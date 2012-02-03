@@ -1,0 +1,11 @@
+canvas { border: solid 1px #ccc }
+#container {
+    width: 960px;
+    margin: 0 auto
+}
+::selection {
+	background: #f90;
+	color: #fff;
+	text-shadow: none;
+}
+#sweeper { cursor: pointer }
